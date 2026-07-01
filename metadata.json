@@ -1,0 +1,6 @@
+{
+  "name": "Babhan Bhumihar Heritage Archive",
+  "description": "A research-grade interactive digital archive and scholarly registry documenting the heritage, lineages, lineages (Mools), and historic contributions of the Babhan Bhumihar community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
